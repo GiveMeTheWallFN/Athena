@@ -1,11 +1,11 @@
 {
     "delayStart": 10,
     "fortniteAPI": {
-        "apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        "apiKey": "0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC"
     },
     "language": "en",
-    "supportACreator": "YourSupportACreatorCode",
-    "twitter": {
+    "supportACreator": "",
+    "twitter":Item Shop Today! Use somebody's Support A Creator code to support them!
         "enabled": true,
         "apiKey": "XXXXXXXXXX",
         "apiSecret": "XXXXXXXXXX",
